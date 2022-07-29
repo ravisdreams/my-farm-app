@@ -1,0 +1,2 @@
+uvicorn index:app --reload
+git remote set-url origin https://ravisdreams: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@github.com/ravisdreams/my-farm-app.git
